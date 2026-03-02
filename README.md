@@ -2,6 +2,10 @@
 
 Trust Intelligence for AI agents. Entity verification, sanctions screening, and risk scoring via the [Model Context Protocol](https://modelcontextprotocol.io/).
 
+<a href="https://glama.ai/mcp/servers/@JWconsultancy1234/limitguard">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@JWconsultancy1234/limitguard/badge" alt="Limitguard MCP server" />
+</a>
+
 **Server URL:** `https://api.limitguard.ai/mcp`
 **Transport:** Streamable HTTP (POST)
 **Auth:** x402 micropayment protocol (pay-per-call, no API key needed)
